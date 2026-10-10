@@ -1,5 +1,7 @@
 # PredictionMarketsPicks — agent skills
 
+[![M8ven Verified](https://m8ven.ai/badge/mcp/predictionmarketspicks-skills-13hswx?variant=verified&v=046b84966caab13b41124ac958e9d78f)](https://m8ven.ai/mcp/predictionmarketspicks-skills-13hswx?s=readme)
+
 Three skills that teach an AI agent to answer Kalshi and Polymarket questions with the hosted PredictionMarketsPicks MCP server: live NFL player-prop prices by venue, cross-venue price gaps, Kalshi weather and 15-minute boards, perps and liquidation math, Fed rate odds, the 2026 Senate map, NHL, and EV / Kelly / Bayes calculators. Free, read-only, no API key.
 
 | Skill | Use it for |
